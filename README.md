@@ -6,7 +6,7 @@
 <h1>Hi 👋 My name is Vorontsova Daria</h1>
 
 <br>
-Frontend developer
+<h2>Frontend developer</h2>
 
 <br>
 I'm a Software Development student and a budding frontend developer. I've been working in frontend development for about two years.
