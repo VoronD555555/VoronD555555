@@ -4,13 +4,13 @@
 **VoronD555555/VoronD555555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--!>
 
 Hi 👋 My name is Vorontsova Daria
-=================================
 
+<br>
 Frontend developer
-------------------
 
+<br>
 I'm a Software Development student and a budding frontend developer. I've been working in frontend development for about two years.
-
+<br>
 * 🌍  I'm based in Russia
 * ✉️  You can contact me at [vorondana35@gmail.com](mailto:vorondana35@gmail.com)
 
